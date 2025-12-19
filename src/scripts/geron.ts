@@ -1,1 +1,4 @@
-export const hello = "Привет geron.ts";
+export const changedText = ".ts";
+export const unchangedText = ".js";
+
+console.log(changedText);
